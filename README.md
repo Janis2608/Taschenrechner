@@ -1,2 +1,2 @@
 # Taschenrechner
-Das ist ein Programm für einen Taschenrechner
+Dies ist mein erste Projekt mit GitHub
